@@ -1,0 +1,1 @@
+Light up three of the four ends of the two wires. Once one wire is completely burnt, light up the fourth end. At 45 minutes, both wires are burnt completely.
