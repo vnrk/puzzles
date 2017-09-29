@@ -1,0 +1,11 @@
+There are two empty bowls in a room. You have 50 white balls and 50 black balls. After you place the balls in the bowls, a random ball will be picked from a random bowl. Distribute the balls (all of them) into the bowls to maximize the chance of picking a white ball.
+
+ 
+ 
+ 
+
+Answer:
+Put 1 white ball in one bowl and 49 white balls in other bowl.
+
+So probability of getting white ball becomes 1/2*1 + 1/2*49/99 which is approximately 3/4.
+
