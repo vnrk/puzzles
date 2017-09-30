@@ -1,0 +1,21 @@
+Question: Measure 9 minutes from a 4 minutes hourglass and a 7 minutes hourglass?
+
+hourglasshourglass
+Above images are taken from Wikiepedia page of hourglass.
+
+
+
+
+
+
+
+
+
+Answer:
+At 0 minutes: start both hourglasses at the same time.
+At 4 minutes: 4 minutes hourglass runs out and flip it. 7 minutes hourglass is left with 3 minutes.
+At 7 minutes: 4 minutes hourglass is left with 1 minute. 7 minutes hourglass runs out and flip it.
+At 8 minutes: 4 minutes hourglass runs out and 7 is filled with 6 minutes. Pour sand from 7 minutes hourglass to 4 minutes so that the 4 minutes hour glass becomes full. Now 7 minutes hourglass is left with 1 minute
+At 9 minutes: 7 minutes hourglass becomes empty.
+
+Hence we measured 9 minutes.
